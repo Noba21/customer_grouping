@@ -135,7 +135,7 @@ plt.show()
 
 
     
-![png]()
+![png](https://github.com/Noba21/customer_grouping/blob/main/Screenshot%202025-08-13%20091520.png)
     
 
 
@@ -166,6 +166,6 @@ plt.show()
 
 
     
-![png]()
+![png](https://github.com/Noba21/customer_grouping/blob/main/Screenshot%202025-08-13%20091113.png)
     
 
